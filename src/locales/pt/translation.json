@@ -1,0 +1,11 @@
+{
+  "code": {
+    "errors": {
+      "invalid_variable_type": "invalid variable type"
+    }
+  },
+  "common": {
+    "search": "Search",
+    "goback": "go back"
+  }
+}

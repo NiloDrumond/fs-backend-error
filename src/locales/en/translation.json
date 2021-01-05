@@ -1,0 +1,25 @@
+{
+  "code": {
+    "errors": {
+      "invalid_data_type": "invalid data type",
+      "invalid_name": "invalid name",
+      "invalid_operation": "invalid operation",
+      "invalid_assignment": "invalid assignment",
+      "invalid_property": "invalid property",
+      "descriptions": {
+        "invalid_variable_type": "invalid variable type",
+        "expected_assign_operator_on_creation": "expected assign operator on creation",
+        "variable_already_exists": "variable already exists",
+        "cant_create_null_variable": "cant create null variable",
+        "invalid_variable_name": "invalid variable name",
+        "non_existent_property": "{{property}} does not exist in {{object}}",
+        "non_existent_variable": "{{name}} has not been declared",
+        "variable_is_not_object": "{{name}} is not an object"
+      }
+    }
+  },
+  "common": {
+    "search": "Search",
+    "goback": "go back"
+  }
+}
